@@ -90,7 +90,7 @@ Enter the code below into the `index.js` file.
 > syntax.
 
 ```js
-for (let age = 30; age < 40; age++) {
+for (let age = 30; age < 40; age++) { 
   console.log(`I'm ${age} years old. Happy birthday to me!`);
   debugger;
 }
